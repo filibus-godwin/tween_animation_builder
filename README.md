@@ -54,3 +54,5 @@ class _GradientCircleState extends State<GradientCircle> {
 ```
 
 The code snippet above is show a typical example of the use of a TweenAnimationBuilder.
+
+[App Demo](https://user-images.githubusercontent.com/102140996/162641068-6f4934fc-2264-4cf9-82b2-5e0f475239e0.mp4)
